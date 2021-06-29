@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\aiori\\Anaconda3\\envs\\coningenieria38\\python.exe"
 }
